@@ -1,3 +1,5 @@
-## i play minecraft anarchy servers also join netherportal.org you will get killed
+## join netherportal.org
 
 <img src="https://komarev.com/ghpvc/?username=playstation452&style=flat" alt="playstation451" />
+
+i make hack client sometimes
