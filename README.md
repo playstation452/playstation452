@@ -4,7 +4,7 @@
 
 
 
-![playstation452 github stats](https://github-readme-stats.vercel.app/api?username=playstation452&count_private=true&show_icons=true&theme=github_dark) [![Playstation452's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=playstation452&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![playstation452 github stats](https://github-readme-stats.vercel.app/api?username=playstation452&count_private=true&show_icons=true&theme=github_dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=playstation452&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 i make hack client sometimes
 
